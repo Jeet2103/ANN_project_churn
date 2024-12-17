@@ -1,15 +1,4 @@
-# Project Title
-
-Brief description of the project (1-2 lines).
-
----
-
-## 🚀 Features
-- Feature 1
-- Feature 2
-- Feature 3
-
----
+# ANN Project : Churn classification
 
 ## 📥 Clone the Repository
 
